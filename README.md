@@ -55,21 +55,24 @@ Final-year **B.Tech student in AI & Data Science** who builds full-stack applica
 
 ## 📊 GitHub Analytics
 
+## 🐍 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aswinbino&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Aswin's GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/aswinbino/aswinbino/snake-output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=aswinbino&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="Aswin's GitHub Stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aswinbino&theme=dark&hide_border=false" alt="Aswin's GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aswinbino&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aswinbino&theme=dark&hide_border=false&layout=compact&count_private=true" alt="Top Languages" />
 </p>
 
 ### 🏆 Achievements & Badges
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aswinbino&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aswinbino&style=flat-square&color=blue" alt="Profile Views" />
 </p>
